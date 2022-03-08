@@ -1,47 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   v6.11.0.plist
+   MOJiDict-installerDemo
+   Created by Mingzhi on 2021/9/15.
+   Copyright (c) 2021 ___ORGANIZATIONNAME___. All rights reserved.
+-->
 <plist version="1.0">
-<dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://gzoffice.mojidict.com:9000/iOS/mojidict/MOJiDICT_v6.17.0_build20220303.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>图标下载地址（png格式）</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>图标下载地址（png格式）</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>3EW3QF484M.MojiDict</string>
-				<key>bundle-version</key>
-				<string>6.17.0_20220303</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>MOJi辞書</string>
-			</dict>
-		</dict>
-	</array>
-</dict>
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://gzoffice.mojidict.com:9000/iOS/mojidict/MOJiDICT_v6.17.0_build20220303.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>3EW3QF484M.MojiDict</string>
+                    <key>bundle-version</key>
+                    <string>6.11.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>安装MOJi辞書(v6.11.0)</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
 </plist>
