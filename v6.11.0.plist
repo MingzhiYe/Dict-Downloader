@@ -20,6 +20,22 @@
                         <key>url</key>
                         <string>https://raw.githubusercontent.com/MingzhiYe/Dict-Downloader/main/MOJiDICT_v6.17.0_build20220303.ipa</string>
                     </dict>
+                   <dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/09/ba/6b/09ba6bdb-8a7e-8f5b-bcd8-2694ee22a0c7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/09/ba/6b/09ba6bdb-8a7e-8f5b-bcd8-2694ee22a0c7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp</string>
+				</dict>
                 </array>
                 <key>metadata</key>
                 <dict>
